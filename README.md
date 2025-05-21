@@ -1,8 +1,8 @@
 # Simulador de Instalação de Placas em Parede
 
 <p align="center">
-  <img src="img/exemplo_1.png" width="50%" alt="Exemplo 1">
-  <img src="img/exemplo_2.png" width="50%" alt="Exemplo 2">
+  <img src="img/exemplo_1.png" width="45%" alt="Exemplo 1">
+  <img src="img/exemplo_2.png" width="45%" alt="Exemplo 2">
 </p>
 
 Este projeto permite simular visualmente a instalação de placas retangulares em uma parede, levando em consideração inclinações (prumos e níveis) e adicionando interatividade com o mouse para reposicionamento das placas.
